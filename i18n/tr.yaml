@@ -1,0 +1,17 @@
+## HOME ##
+- id: "home.home"
+  translation: "Anasayfa"
+  
+- id: "home.recent_posts"
+  translation: "Güncel Paylaşımlar"
+
+- id: "home.see_all_posts"
+  translation: "Tümünü gör"
+
+## SINGLE ##
+- id: "single.table_of_contents"
+  translation: "İçerik Tablosu"
+
+## FOOTER ##
+- id: "footer.go_to_top"
+  translation: "En üste git"

@@ -1,0 +1,144 @@
+baseURL = 'https://drshahinstein.github.io/'
+title = "Taylan Öztürk"
+languageCode = 'en-us'
+defaultContentLanguage = "tr"
+enableEmoji = true
+ignoreErrors = ["additional-script-loading-error"]
+theme = "hugo-blog-awesome"
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
+	[markup.tableOfContents]
+		startLevel = 2 # ToC starts from H2
+		endLevel = 4 # ToC ends at H4
+		ordered = false # generates <ul> instead of <ol>
+
+[Languages.tr]
+  languageName = "Turkish"
+  languageCode = "tr"
+  contentDir = "content/tr"
+  weight = 1
+
+  [Languages.tr.menu]
+    [[Languages.tr.menu.main]]
+      pageRef="/"
+      name = 'Anasayfa'
+      url = '/'
+      weight = 10
+    [[Languages.tr.menu.main]]
+      pageRef="posts"
+      name = 'Blog Yazıları'
+      url = '/posts/'
+      weight = 20
+    [[Languages.tr.menu.main]]
+      pageRef="articles"
+      name = 'Makaleler'
+      url = '/articles/'
+      weight = 30
+    [[Languages.tr.menu.main]]
+      pageRef="about"
+      name = 'Hakkımda'
+      url = '/about/'
+      weight = 40
+
+[Languages.tr.params]
+  sitename = "Taylan Öztürk"
+  defaultColor = "dark"
+  description = "Taylan Öztürk (aka DrShahinstein) Personal Website"
+  mainSections = ['posts']
+  toc = false
+  tocOpen = false
+  goToTop = true
+  additionalScripts = ['js/custom.js', 'js/custom-2.js']
+  dateFormat = ""
+  rssFeedDescription = "summary"
+
+[Languages.tr.params.author]
+  avatar = "me.jpg"
+  intro = "Taylan Öztürk"
+  name = "Taylan Öztürk"
+  description = "Okuduğum kitaplar, izlediğim filmler, dinlediğim şarkılar üzerine düşündüklerimi paylaşıyorum"
+
+[Languages.tr.params.webmanifest]
+  name = "Taylan Öztürk"
+  short_name = "Blog"
+  start_url = "/"
+  theme_color = "#434648"
+  background_color = "#fff"
+  display = "standalone"
+
+[Languages.en-gb]
+  languageName = "English"
+  languageCode = "en-gb"
+  contentDir = "content/en"
+  weight = 1
+
+  [Languages.en-gb.menu]
+    [[Languages.en-gb.menu.main]]
+      pageRef="/"
+      name = 'Home'
+      url = '/'
+      weight = 10
+    [[Languages.en-gb.menu.main]]
+      pageRef="posts"
+      name = 'Blogs'
+      url = '/posts/'
+      weight = 20
+    [[Languages.en-gb.menu.main]]
+      pageRef="articles"
+      name = 'Articles'
+      url = '/articles/'
+      weight = 30
+    [[Languages.en-gb.menu.main]]
+      pageRef="about"
+      name = 'About'
+      url = '/about/'
+      weight = 40
+
+[Languages.en-gb.params]
+  sitename = "Taylan Öztürk"
+  defaultColor = "dark"
+  description = "Taylan Öztürk (aka DrShahinstein) Personal Website"
+  mainSections = ['posts']
+  toc = false
+  tocOpen = false
+  goToTop = true
+  additionalScripts = ['js/custom.js', 'js/custom-2.js']
+  dateFormat = ""
+  rssFeedDescription = "summary"
+
+[Languages.en-gb.params.author]
+  avatar = "me.jpg"
+  intro = "Taylan Öztürk"
+  name = "Taylan Öztürk"
+  description = "I share my thoughts on the books I read, movies I watch, songs I listen to"
+
+[Languages.en-gb.params.webmanifest]
+  name = "Taylan Öztürk"
+  short_name = "Blog"
+  start_url = "/"
+  theme_color = "#434648"
+  background_color = "#fff"
+  display = "standalone"
+
+[params.browserconfig]
+  TileColor = "#2d89ef"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/DrShahinstein"
+
+[[params.socialIcons]]
+  name = "telegram"
+  url = "https://t.me/DrShahinstein"
+
+[[params.socialIcons]]
+  name = "discord"
+  url = "https://discord.com/users/738517460378189926"
+
+[[params.socialIcons]]
+  name = "Rss"
+  url = "/index.xml"
