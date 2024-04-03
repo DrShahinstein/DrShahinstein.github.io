@@ -7,12 +7,12 @@
         {{ range .Pages.GroupByDate "2006" }}
         {{ $year := .Key }}
         
-
         {{/* create a list of posts for each month, with month as heading */}}
 
         {{ range .Pages }}
-
-        {{ partial "postCard" . }}
+        {{ if not (.Params.exclude) }}
+            {{ partial "postCard" . }}
+        {{ end }}
 
         {{ end }} {{/* end range .Pages */}}
 
