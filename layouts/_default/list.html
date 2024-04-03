@@ -6,18 +6,14 @@
     <main class="page-content" aria-label="Content">
         {{ range .Pages.GroupByDate "2006" }}
         {{ $year := .Key }}
-        
-        {{/* create a list of posts for each month, with month as heading */}}
 
-        {{ range .Pages }}
+        {{ range .Pages.ByParam "order" }}
         {{ if not (.Params.exclude) }}
             {{ partial "postCard" . }}
         {{ end }}
 
-        {{ end }} {{/* end range .Pages */}}
-
-        {{ end }} {{/* end range .Pages.GroupByDate "2006" */}}
-
+        {{ end }}
+        {{ end }}
     </main>
 </div>
 {{- end -}}
