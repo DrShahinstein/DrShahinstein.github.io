@@ -1,5 +1,5 @@
 +++
-title = 'to Kill a Mockingbird - Harper Lee'
+title = 'On Killing a Mockingbird'
 date = 2024-03-29
 draft = false
 +++

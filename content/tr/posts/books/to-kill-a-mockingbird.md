@@ -1,5 +1,5 @@
 +++
-title = 'Bülbülü Öldürmek - Harper Lee'
+title = 'Bülbülü Öldürmek Üzerine'
 date = 2024-03-29
 draft = false
 +++
