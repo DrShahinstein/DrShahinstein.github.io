@@ -60,7 +60,7 @@ theme = "hugo-blog-awesome"
   avatar = "me.jpg"
   intro = "Taylan Öztürk"
   name = "Taylan Öztürk"
-  description = "Okuduğum kitaplar, izlediğim filmler, dinlediğim şarkılar üzerine düşündüklerimi paylaşıyorum"
+  description = "Kitaplar, filmler, şarkılar ve çeşitli konular üzerine yazıyorum"
 
 [Languages.tr.params.webmanifest]
   name = "Taylan Öztürk"
@@ -114,7 +114,7 @@ theme = "hugo-blog-awesome"
   avatar = "me.jpg"
   intro = "Taylan Öztürk"
   name = "Taylan Öztürk"
-  description = "I share my thoughts on the books I read, movies I watch, songs I listen to"
+  description = "I write about books, movies, songs and various topics"
 
 [Languages.en-gb.params.webmanifest]
   name = "Taylan Öztürk"
