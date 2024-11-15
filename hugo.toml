@@ -38,11 +38,6 @@ theme = "hugo-blog-awesome"
       name = 'Makaleler'
       url = '/articles/'
       weight = 30
-    [[Languages.tr.menu.main]]
-      pageRef="about"
-      name = 'Hakkımda'
-      url = '/about/'
-      weight = 40
 
 [Languages.tr.params]
   sitename = "Taylan Öztürk"
@@ -92,11 +87,6 @@ theme = "hugo-blog-awesome"
       name = 'Articles'
       url = '/articles/'
       weight = 30
-    [[Languages.en-gb.menu.main]]
-      pageRef="about"
-      name = 'About'
-      url = '/about/'
-      weight = 40
 
 [Languages.en-gb.params]
   sitename = "Taylan Öztürk"
