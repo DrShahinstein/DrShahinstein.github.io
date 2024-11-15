@@ -55,7 +55,7 @@ theme = "hugo-blog-awesome"
   avatar = "me.jpg"
   intro = "Taylan Öztürk"
   name = "Taylan Öztürk"
-  description = "Kitaplar, filmler, şarkılar ve çeşitli konular üzerine yazıyorum"
+  description = "Arada bir takılıyorum burada"
 
 [Languages.tr.params.webmanifest]
   name = "Taylan Öztürk"
@@ -104,7 +104,7 @@ theme = "hugo-blog-awesome"
   avatar = "me.jpg"
   intro = "Taylan Öztürk"
   name = "Taylan Öztürk"
-  description = "I write about books, movies, songs and various topics"
+  description = "Just hanging around here sometimes"
 
 [Languages.en-gb.params.webmanifest]
   name = "Taylan Öztürk"
