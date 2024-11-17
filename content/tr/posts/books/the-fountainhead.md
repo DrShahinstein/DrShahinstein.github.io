@@ -362,14 +362,11 @@ Howard Roark öne çıktı, jürinin karşısında durdu. Salonun arka tarafınd
 — Roark'un başının ilk hareketi, dönüp pencereden kente bakmak olmamıştı, yargıca veya Dominique'e bakmak da olmamıştı. Wynand'a bakıyordu.
 
 Wynand sert bir hareketle döndü, salondan çıktı. Salondan çıkan ilk kişi o olmuştu.
-
 ---
 ## Bonus
 
 "Howard, ben bir asalağım. Bütün ömrümce asalak oldum. Stanton'da en iyi projelerimi hep sen çizdin. Ömrümde yaptığım ilk evi sen çizdin. Cosmo-Slotnick binasını sen çizdin. Ben hep senden beslendim, biz doğmadan önce yaşamış, senin gibi adamlardan beslendim. Parthenon'u, Gotik katedralleri, ilk gökdelenleri yapan adamlardan. Onlar olmasaydı ben taş üstüne taş koymasını bilmezdim. Benden önce yapılanlara, ömrüm boyunca bir tek yeni kapı tokmadığı eklemiş değilim. Benim olmayanı aldım, karşılığında da hiçbir şey vermedim. Verecek bir şeyim yoktu. Rol yapmıyorum Howard, ne dediğimin son derece farkındayım. Şimdi de buraya beni tekrar kurtarmanı istemeye geldim. Eğer beni kovmak istersen şimdi yap."
-
 ---
-
 "Sen Stoddard Tapınağı'nda bir hata yapmıştın, Howard," dedi. O heykel Dominique'in değil, senin heykelin olmalıymış."
 
 — "Hayır. Bunu yapmayacak kadar egoistim."
@@ -377,9 +374,7 @@ Wynand sert bir hareketle döndü, salondan çıktı. Salondan çıkan ilk kişi
 — "Egoist mi? Egoistler bayılırdı buna. Sen kelimeleri çok garip anlamlarda kullanıyorsun."
 
 — "Tam da doğru anlamda. Ben hiçbir şeyin simgesi olmak istemiyorum. Ben yalnızca benim."
-
 ---
-
 Wynand sordu. "Howard, sen hiç aşık oldun mu?"
 Roark dosdoğru ona döndü, alçak sesle cevap verdi.
 
