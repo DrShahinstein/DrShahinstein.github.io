@@ -1,3 +1,3 @@
 +++
-title = "Blog Yazıları"
+title = "Yazılar"
 +++
