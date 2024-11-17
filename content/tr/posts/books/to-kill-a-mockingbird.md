@@ -1,11 +1,8 @@
 +++
-title = 'Bülbülü Öldürmek Üzerine'
+title = 'Bülbülü Öldürmek'
 date = 2024-03-29
 draft = false
 +++
-
-## Giriş
-Bu kitabı 28-03-2024 tarihinde bitirdim. Okuldaki boş dersler sağ olsun, epey hızlı yol katettim. Bu kitabı ilk kez geçmiş senelerde dersimize giren edebiyat öğretmenim Erdem Asıbostan’dan öğrenmiştim. Kendisi, bu romanı en çok etkilendiği, hayatını değiştirdiği kitap olarak tanımlamıştır. Romanın kendisini nasıl etkilediğinden bahsettiğinde ben 9. sınıftım. Şu anda 11. sınıfın sonlarındayım neredeyse. Epey uzun süre rafta beklemiş bir roman olmuş benim için ancak iyi ki de beklemiş diyebilirim. Eskiden okusaydım çabuk sıkılıp vazgeçebilirdim. Şimdi 50. sayfa civarlarına kadar dikkatimi vererek sabırla okudum. Roman belli bir müddet olayların geliştiği çevrenin, karakterlerin inşasını tamamlamakla ilgileniyor. İlk başta romanın sıkıcı olduğu yönünde bir önyargı oluşturma potansiyeline sahip olsa da devamında meyvesini defaatle verdiğini rahatlıkla söyleyebilirim.
 
 ## Özet
 1930 yılına gidiyoruz, roman Amerika Birleşik Devletlerine bağlı Alabama eyaletinin Maycomb kasabasında geçmektedir.  [Buhran](https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Buhran)’ın sonuçları her yerde etkisini göstermektedir. Özellikle de çiftçiler bu durumdan oldukça kötü etkilenmiştir. Kasaba ahalisi, geçim derdindedir ve kötü şartlarda evlatlarını yetiştirmeye çalışmaktadır.
@@ -31,14 +28,7 @@ Scout ve Jem, Atticus’tan çok şey öğrenmişlerdir. Buna rağmen olanlar ka
 
 Bay Arthur, bir diğer adıyla Öcü Radley duvara yaslanmış, Atticus’ları dinlemektedir. Scout eliyle Öcü Radley’i gösterir ve hiçbir şey yokmuşçasına selam verir. Şerif Heck, Ewell’ın kendi bıçağının üzerine düştüğünü öngörse de bir okur olarak benim yorumum burada Scout’ı korkutmamak için Öcü Radley’in Ewell’ı öldürdüğünü gizlemeleri yönündedir. Üstelik Atticus, çocukları için ona teşekkür etmiştir. Roman, Scout’un Arthur’u elinden tutarak evine kadar eşlik etmesiyle sona erer.
 
-## Yorum & Sonuç
-Kitabın sade ve rahatlıkla takip edilebilir dili çok hoşuma gitti ve Atticus ile ilgili hemen her sahnede ne kadar sağlam bir baba figürünü temsil ettiğine tanıklık etmek özel bir hayranlık uyandırdı. Kitap boyunca, satır aralarında çok güzel dersler, çok güzel mesajlar veriliyor. Siyahilerin ciddi ırkçılığa uğradığı, ekonomik buhrandan feci etkilenen Maycomb kasabasında Scout adında küçük bir kızın gözünden dünyaya bakmak çok farklı bir deneyimdi. Böyle bir ortamda Atticus’un nasıl profesyonel baba ve avukat olmayı başardığına şahitlik etmek ve  bunun çocukların karakter gelişimiyle nasıl harmanlandığını görmek hatrı sayılır bir vizyon sundu. Atticus, sahiden de bir dava adamıymış.     Herkesin belli bir saf tuttuğu bir olayda herkese zıt gitmek cesaret ve bilgelik ister. Sokrates’in kararlılıkla kendini idam eden Atinalı’lara izin vermesi gibi etkileyici bir özelliği var Atticus’un.
-
-Çocukların karakter gelişimlerinden de söz etmeden olmaz. Kitabın başında oyun oynayan, koşup zıplayan karakterler zamanla hayatın gerçekleri ile ilgilenmeye başlıyorlar. Öyle ki finalde Scout, Öcü Radley gözünün önünde durmasına rağmen çok normal davranıyor. Sanki geçmişte Radley’lerin verandasında bütün o çılgınlıkları yapan onlar değilmiş gibi. Bu arada Radley’lerin olayların akışına doğrudan bir etkisi olmamasına rağmen -çünkü romanda asıl ön planda olan dava süreçleri- nasıl da romanın en önemli parçalarından biri olması yazarın hayal gücünü takdir etmeyi gerektirir. Başta çocuklar gibi Öcü ile çok ilgileniyorsunuz, sonra mahkeme süreçleri ile aklınızdan çıkıveriyor, finalde ise yeniden kendini gösteriyor.
-
-Özetimde yer vermesem de çocukların, Bayan Dubose ile olan kavgaları da kitabın en aklımda kalan yerlerinden bir tanesi oldu. Dubose, Atticus’a “zenci hayranı” diyerek çocuklara babalarını kötülüyordu. Scout ve Jem de haklı olarak buna sinirleniyor ve ağzının payını bildirmeye çalışıyorlardı. Dubose orada bir okur olarak benim bile asabımı bozmuştu. Çocukların agresif tavırlarını da haklı buluyordum. Sonra ne oldu, Atticus geldi, Dubose’tan özür dilemelerini istedi. Kendisine hakaret etmesini problem etmedi, normal karşıladı. Üstelik ceza olarak çocuklar bir ay boyunca Dubose’a kitap okudular. Oysaki onca zaman Dubose onları duymamıştı bile. Dubose ölmek üzere olduğunu bilen bir kadındı ve ölmeden önce son dileği hastalığından kurtulmuş, eli kolu bağlı olmadan ölen bir birey olmaktı. Bir ay boyunca kullandığı ilaçları bırakmış ve hastalığına karşı dimdik durmuştu. Sonunda yine ölecekti ama bu sefer dileğini başarıyla gerçekleştirmiş olacaktı ve öyle de oldu: Özgür bir birey olarak hayata gözlerini yummuştu. Atticus, onu tanıdığı en cesur insan olarak nitelemişti ve tam da bu noktada cesaretin tanımını yaptı: _“Gerçek cesaretin ne olduğunu görmeni istiyordum (Jem’e söylüyor,) gerçek cesaretin eli tüfekli bir adamla ilgisi olmadığını. Daha başlamadan yenildiğini bile bile başlamak ve her ne pahasına olursa olsun sonuna kadar devam etmek olduğunu.”_ Bu satırları okuduğumda hemen altını çizdim. Sahiden etkileyiciydi.
-
-Atticus’un en beğendiğim birkaç sözüyle bu yazıyı sonlandırmak istiyorum:
+## Alıntılar
 
 _"Gerçek cesaretin ne olduğunu görmeni istiyordum, gerçek cesaretin eli tüfekli bir adamla ilgisi olmadığını. Daha başlamadan yenildiğini bile bile başlamak ve her ne pahasına olursa olsun sonuna kadar devam etmek olduğunu."_
 
