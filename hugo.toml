@@ -30,7 +30,7 @@ theme = "hugo-blog-awesome"
       weight = 10
     [[Languages.tr.menu.main]]
       pageRef="posts"
-      name = 'Blog Yazıları'
+      name = 'Yazılar'
       url = '/posts/'
       weight = 20
     [[Languages.tr.menu.main]]
@@ -79,7 +79,7 @@ theme = "hugo-blog-awesome"
       weight = 10
     [[Languages.en-gb.menu.main]]
       pageRef="posts"
-      name = 'Blogs'
+      name = 'Posts'
       url = '/posts/'
       weight = 20
     [[Languages.en-gb.menu.main]]
