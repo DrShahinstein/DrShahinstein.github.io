@@ -366,14 +366,11 @@ Howard Roark came forward and stood in front of the jury. At the back of the roo
 - The first movement of Roark's head was not to turn and look out of the window at the city, not to look at the judge or Dominique. He was looking at Wynand.
 
 Wynand turned sharply and left the hall. He was the first to leave the hall.
-
 ---
 ## Bonus
 
 "Howard, I'm a parasite. I've been a parasite all my life. You did all my best projects at Stanton. You drew the first house I ever built. You drew the Cosmo-Slotnick building. I've always fed off of you, men like you who lived before we were born, men who built the Parthenon, Gothic cathedrals, the first skyscrapers. Without them, I wouldn't know how to put a stone on a stone. I've never in my life added a single new door knob to what was done before me. I took what wasn't mine and gave nothing in return. I had nothing to give. I'm not pretending, Howard, I know exactly what I'm saying, and now I'm here to ask you to save me again. If you want to fire me, do it now."
-
 ---
-
 "You made a mistake at the Stoddard Temple, Howard," he said. That statue should have been yours, not Dominique's."
 
 - "No. I'm too egotistical I'm too egotistical to do that."
@@ -381,9 +378,7 @@ Wynand turned sharply and left the hall. He was the first to leave the hall.
 - "Egotistical? Egotists would love that. You use words in very strange ways."
 
 - "In exactly the right sense. I don't want to be a symbol of anything, I'm just me."
-
 ---
-
 Wynand asked. "Howard, have you ever been in love?"
 Roark turned directly to him and answered in a low voice.
 
